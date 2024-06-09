@@ -1,0 +1,39 @@
+¿QUÉ ES HTML?
+
+--> Es el HIPER TEXT MARK-UP LANGUAGE, que significa el lenguaje de marcado de hipertexto, es el componente
+    más básico de la Web.
+--> Es la estructura/esqueleto de una página web, define el significado y la estructura del contenido web.
+
+
+
+**El primer documento en una página web y el punto de entrada dentro de una página web es el documento 'index'
+  digamos que el 'index' le indica al navegador web que tiene que entrar primero a esa página, ya que una web
+  es un conjunto de páginas html, puedo tener page1.html, page2.html, index.html(Con index le indicamos al
+  navegador que esta es la primera página html a la que tiene que entrar, DICEN QU home.html TAMBIÉN FUNCIONA
+  AVERIGUAR)
+
+
+***************************************** ETIQUETAS / TAGS *******************************************
+
+--> Hay etiquetas con contenido y sin contenido
+
+<nombreDeLaEtiqueta atributo="valorDelAtributo"> CONTENIDO </nombreDeLaEtiqueta>
+<nombreDeLaEtiqueta atributo="valorDelAtributo" />
+
+
+
+*********************************************** IFRAMES ********************************************
+
+--> Es una etiqueta que me permite cargar dentro de mi propia página HTML a otra página, usada mayormente
+    para cargar mapas de google, videos de youtube, etc.
+
+
+
+
+
+PARA AVERIGUAR, INDAGAR Y ESTUDIAR:
+
+-> Por qué debe llamarse index.html a la página de entrada y como el navegador sabe que esta es la primera 
+   página.
+-> El home.html funciona igual que el index.html
+-> Averiguar buenas practicas, etc.

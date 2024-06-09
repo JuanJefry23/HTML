@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validacion Forms | HTML</title>
+</head>
+<body>
+    
+    <h1>Validación HTML</h1>
+    <form action="">
+        <label for="name">Name:</label>
+        <input 
+            type="text" 
+            name="userName" 
+            id="name"
+            minlength="2"
+            maxlength="5"
+            pattern="[A-Za-z]+"
+            required
+        >
+
+        <div>
+            <label for="num">Number:</label>
+            <input 
+                type="number" 
+                name="numero" 
+                id="num"
+                min="7"
+                max="10"    
+            >
+        </div>
+        <button>Enviar</button>
+    </form>
+</body>
+</html>

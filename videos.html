@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videos | HTML</title>
+</head>
+<body>
+    <h1>Videos HTML</h1>
+
+    <!-- First way to put a video -->
+    <video src="videos/my_video.mp4" controls autoplay muted>
+        This message in case the browser does not support the video tag
+    </video>
+
+    <!-- Second way to put a video -->
+    <video controls width="400" poster="img/Thumbnail.jpg">
+        <source src="videos/first_video.mp4" type="video/mp4">
+        <source src="videos/second_video.mov" type="video/mov">
+        The video tag is not compatible
+    </video>
+
+</body>
+</html>
+
+
+<!-- 
+
+NOTES:
+
+-> The second way to put videos looks better and we can use the attribute 'poster' to place a 
+   thumbnail image, which will be shown in the video when it is not playing, like the ones in youtube.
+ -->
