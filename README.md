@@ -32,6 +32,10 @@ It gives me deeper knowledge in what is the base of the webs, which is HTML, lib
 ✔️Web positioning in browsers, the reasons behind why some webpages are shown first in the browsers | Posicionamiento web en los navegadores, las razones detrás del por qué algunas páginas web se muestrán primero en los navegadores
 
 
+## DEPLOYED PROJECT
+Link: https://professional-form-html.netlify.app/
+
+
 ## VIDEO
 
 
