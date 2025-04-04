@@ -1,6 +1,7 @@
 # HTML ![icons8-html-5-48](https://github.com/JuanJefry23/HTML/assets/57572366/e7c53c1d-91e0-4bfd-9984-dcf7352fcc35)
 
 ## WHAT DID I LEARN | QUÉ APRENDÍ ? 📚
+
 I learned best practices in HTML, as well as how to use tags that enhance a website's SEO, professional form validation, and input sanitization to prevent web attacks / Aprendí mejores prácticas en HTML, además de utilizar etiquetas que mejoran el SEO de una web, Validacion profesional en formularios y sanitización de los inputs para prevenir ataques en la web.
 
 
